@@ -1,4 +1,3 @@
-# OctaNet_task2
 CREATE A TO-DO LIST PAGE: *Design and develop a web page that allows users to manage their to-do lists.
 *Features to include:
 1.Add new tasks
